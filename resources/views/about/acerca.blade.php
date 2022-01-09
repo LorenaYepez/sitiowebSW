@@ -119,7 +119,6 @@
                     <a href="https://www.instagram.com/eltechnology1/">	<i class="fa fa-instagram"></i></a>
 					<i class="fa fa-telegram"></i>
 					<i class="fa fa-whatsapp"></i>
-					<i class="fa fa-github"></i>
 				</div>
 			</div>
 		</div>

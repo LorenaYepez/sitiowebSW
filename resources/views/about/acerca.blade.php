@@ -95,11 +95,7 @@
 				<p>
 					<a href="https://we.tl/t-HZY6ro9Llw" target="_blank"> Descargar APP GRATIS!</a>
 				</p>
-
-				<p>
-					<a href="https://we.tl/t-HZY6ro9Llw" target="_blank"> Utilizar versión web</a>
-				</p>
-
+				
 				<p>
 					<!-- <img src="assets/images/theme.jpg" alt="affiliates free bootstrap template"/> -->
 				</p>
